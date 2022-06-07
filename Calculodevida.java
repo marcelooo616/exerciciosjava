@@ -19,7 +19,7 @@ public class Calculodevida {
         dias = sc.nextInt();
         
         resultado = dias / ano;
-        System.out.println("(((("+resultado+" Anos" + "))))");
+        System.out.println("((((" + resultado + " Anos" + "))))");
 	}
 
 }
